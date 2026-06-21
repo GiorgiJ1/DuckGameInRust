@@ -1,6 +1,4 @@
-Here is the raw, single-block README code ready to be dumped directly into your repository's `README.md` file:
 
-```markdown
 # 🦆 Skvanchi's Revenge: Kernel Defender
 
 <p align="center">
@@ -13,7 +11,11 @@ Here is the raw, single-block README code ready to be dumped directly into your 
   <b>An intense, low-level top-down shooter built completely from scratch in Rust.</b><br>
   Defend your local Raspberry Pi motherboard from catastrophic software crashes, malware bugs, and runtime resource leaks.
 </p>
-
+<p align="center">
+  ═══════════════════════════════════════════════════════════════<br>
+  <marquee behavior="scroll" direction="left" scrollamount="3">    🦆 &nbsp; &nbsp; &nbsp; 🦆 &nbsp; &nbsp; &nbsp; 🦆 &nbsp; &nbsp; &nbsp; 🦆</marquee><br>
+  ═══════════════════════════════════════════════════════════════
+</p>
 ---
 
 ## 💾 The Incident Report
