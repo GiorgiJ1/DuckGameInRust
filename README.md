@@ -82,7 +82,7 @@ Ensure you have a modern Rust toolchain installed on your host system.
 
 ```bash
 # 1. Clone the repository thread
-git clone [https://github.com/yourusername/skvanchis-revenge.git](https://github.com/yourusername/skvanchis-revenge.git)
+git clone https://github.com/GiorgiJ1/DuckGameInRust.git
 cd skvanchis-revenge
 
 # 2. Build and execute binary optimizations
